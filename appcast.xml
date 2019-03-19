@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
     <title>Example app updates</title>
-    <link>https://drive.google.com/drive/u/0/folders/1ncrGB-RsLwUQp1YPjFJqaWH3b3KwJRw9/appcast.xml</link>
+    <link>https://github.com/MohammadKanan/WinSparkle/blob/master/appcast.xml</link>
     <description>Appcast for Example app updates.</description>
     <language>en</language>
     <item>
