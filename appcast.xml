@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+    <title>Example app updates</title>
+    <link>https://drive.google.com/drive/u/0/folders/1ncrGB-RsLwUQp1YPjFJqaWH3b3KwJRw9/appcast.xml</link>
+    <description>Appcast for Example app updates.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.8</title>
+      <sparkle:releaseNotesLink>https://winsparkle.org/example/relnotes.html</sparkle:releaseNotesLink>
+      <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
+      <enclosure url="https://drive.google.com/drive/u/0/folders/1ncrGB-RsLwUQp1YPjFJqaWH3b3KwJRw9/Metmon_0.1.8.exe"
+                 sparkle:version="1.8.8"
+                 sparkle:dsaSignature="MEQCICh10SofkNHa5iJgVWDi2O8RBYyN+nxkFEL7u/tBuWboAiB6VOV/WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw=="
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
