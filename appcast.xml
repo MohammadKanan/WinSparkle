@@ -11,7 +11,6 @@
       <pubDate>Tue, 15 Sep 2012 18:11:12 +0200</pubDate>
       <enclosure url="https://github.com/MohammadKanan/WinSparkle/blob/master/Metmon_0.1.8.exe"
                  sparkle:version="1.8.8"
-                 sparkle:dsaSignature="MEQCICh10SofkNHa5iJgVWDi2O8RBYyN+nxkFEL7u/tBuWboAiB6VOV/WQMRJE+kRoICZXAhq5b24WkgqcDs0z7gyBkGVw=="
                  type="application/octet-stream"/>
     </item>
   </channel>
